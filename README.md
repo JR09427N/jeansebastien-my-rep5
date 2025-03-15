@@ -1,4 +1,4 @@
-# Carmine’s List  
+# Carmine’s List - Assignment
 ## Full-Stack Web Application Deployment Project  
 
 A simple apartment listing web service and front-end interface, built using Flask and JavaScript. This project allows users to search, filter, and sort available apartments dynamically.  
