@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apartments in your Budget</title>
+</head>
+<body>
+    <input id="txtSearch" type="text" placeholder="Search apartment titles or descriptions...">
+
+    <div>
+        <label for="rooms">Number of bedrooms:</label>
+        <select name="rooms" id="selRooms">
+            <option value="any">Any</option>
+            <option value="one">1+</option>
+            <option value="two">2+</option>
+        </select>
+
+        <label for="sort">Sort:</label>
+        <select name="sort" id="selSort">
+            <option value="none">None</option>
+            <option value="asc">Price Ascending</option>
+            <option value="desc">Price Descending</option>
+        </select>
+
+        <button type="button" onclick="apartment_search()">Search</button>
+    </div>
+
+    <hr/><br>
+
+    <div id="divResults"></div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+[
+      {
+        "title": "Minimalists Enclosure",
+        "description": "Compact studio in a quiet location with sleek, simple finishes and just enough space to exist.",
+        "bedrooms": 1,
+        "monthly_rent": "1900"
+      },
+
+      {
+        "title": "The Peeling Place",
+        "description": "Two-bedroom apartment in a questionable area with a bathroom that’s definitely seen some things.",
+        "bedrooms": 2,
+        "monthly_rent": "1350"
+      },
+
+      {
+        "title": "Zen Den",
+        "description": "Cozy four-bedroom retreat with soft lighting, calming vibes, and just enough space for inner peace.",
+        "bedrooms": 4,
+        "monthly_rent": "1990"
+      },
+
+      {
+        "title": "Window Walls",
+        "description": "Bright and airy two-bedroom with floor-to-ceiling windows, offering amazing views (and zero privacy).",
+        "bedrooms": 2,
+        "monthly_rent": "1600"
+      },
+
+      {
+        "title": "K-9 Smell",
+        "description": "Pet-friendly one-bedroom with built-in doggy door and a mysterious scent that refuses to leave.",
+        "bedrooms": 1,
+        "monthly_rent": "1350"
+      },
+
+      {
+        "title": "Moldy Meadow",
+        "description": "Spacious two-bedroom with “natural” wall textures, a musty aroma, and a thriving ecosystem in the bathroom.",
+        "bedrooms": 2,
+        "monthly_rent": "1550"
+      },
+
+      {
+        "title": "Squeaky Steppings",
+        "description": "Upper-level three-bedroom with charming hardwood floors that announce your every movement.",
+        "bedrooms": 3,
+        "monthly_rent": "1600"
+      },
+
+      {
+        "title": "The Echo Chamber",
+        "description": "Loft-style apartment with high ceilings and acoustics so powerful, your thoughts will sound like a TED Talk.",
+        "bedrooms": 1,
+        "monthly_rent": "1900"
+      },
+
+      {
+        "title": "Pest Nest",
+        "description": "Budget-friendly studio with “complimentary” tiny roommates that never pay rent.",
+        "bedrooms": 2,
+        "monthly_rent": "1450"
+      },
+
+      {
+        "title": "Insect Defect",
+        "description": "One-bedroom with “newly renovated” extermination attempts and a lease that includes a can of bug spray.",
+        "bedrooms": 1,
+        "monthly_rent": "1390"
+      }
+]
+
