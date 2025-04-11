@@ -17,7 +17,7 @@ A simple apartment listing web service and front-end interface, built using Flas
 
 ## Technologies Used  
 
-- **Languages:** Python (Flask), JavaScript, HTML, CSS  
+- **Languages:** Python (Flask), JavaScript, HTML  
 - **Hosting:** PythonAnywhere  
 - **Data Format:** JSON  
 
